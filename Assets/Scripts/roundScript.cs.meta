@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0bf16c113c547c54ab57a920c2f55a2d
+timeCreated: 1520350936
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timerText: {instanceID: 0}
+  - currWord: {instanceID: 0}
+  - roundText: {instanceID: 0}
+  - otherClip: {instanceID: 0}
+  - audioPrefab: {instanceID: 0}
+  - audioMixer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
